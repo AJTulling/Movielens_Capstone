@@ -1,4 +1,4 @@
 # Movielens_Capstone
 Movielens Capstone project
 
-This is project for the final assignment for the Professional Certificate in Data Science course.
+This is the project for the final assignment for the Professional Certificate in Data Science course.
